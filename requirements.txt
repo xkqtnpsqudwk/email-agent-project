@@ -1,0 +1,10 @@
+# Core project: No external dependencies required.
+# Uses Python standard library only (json, os, threading, concurrent.futures, datetime).
+
+# ----------------------------------------------------------------------
+# Optional: only needed if you set EMAIL_SOURCE = "gmail" in config.py
+# Install with: pip install -r requirements.txt
+# ----------------------------------------------------------------------
+# google-api-python-client
+# google-auth-httplib2
+# google-auth-oauthlib

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "mail_001",
+    "from": "known_spam@example.com",
+    "subject": "You've won a prize! Claim now",
+    "body": "Congratulations! You have been selected as a winner. Click here to claim your reward.",
+    "start_time": null,
+    "end_time": null
+  },
+  {
+    "id": "mail_002",
+    "from": "new_scam@example.com",
+    "subject": "URGENT: Account Security Alert",
+    "body": "Your account has been compromised. Click here to verify your credentials immediately or lose access.",
+    "start_time": null,
+    "end_time": null
+  },
+  {
+    "id": "mail_003",
+    "from": "project.manager@example.com",
+    "subject": "Meeting Request: Project Review",
+    "body": "Hi, I would like to schedule a project review meeting to discuss the current progress.",
+    "start_time": "2026-06-01T10:00:00",
+    "end_time": "2026-06-01T11:00:00"
+  },
+  {
+    "id": "mail_004",
+    "from": "finance@example.com",
+    "subject": "Q3 Budget Proposal - Decision Needed",
+    "body": "Please choose between the following budget options: Option A (conservative) or Option B (aggressive growth). We need your decision by Friday.",
+    "start_time": null,
+    "end_time": null
+  },
+  {
+    "id": "mail_005",
+    "from": "alice@example.com",
+    "subject": "Quick Question: Report Delivery",
+    "body": "Hi, did you receive the quarterly report I sent yesterday? Please confirm receipt when you get a chance.",
+    "start_time": null,
+    "end_time": null
+  },
+  {
+    "id": "mail_006",
+    "from": "server@example.com",
+    "subject": "Server Maintenance Completed",
+    "body": "This is to notify you that the scheduled server maintenance has been completed. All systems are now operational.",
+    "start_time": null,
+    "end_time": null
+  },
+  {
+    "id": "mail_007",
+    "from": "newsletter@example.com",
+    "subject": "Monthly Newsletter - May 2026",
+    "body": "Here is your monthly newsletter with the latest company news and industry updates.",
+    "start_time": null,
+    "end_time": null
+  },
+  {
+    "id": "mail_008",
+    "from": "hr@example.com",
+    "subject": "Team Building Event Invitation",
+    "body": "You are invited to our upcoming team building event. Please confirm your attendance at your earliest convenience.",
+    "start_time": "2026-06-02T14:00:00",
+    "end_time": "2026-06-02T16:00:00"
+  }
+]
