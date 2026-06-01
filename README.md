@@ -1,9 +1,5 @@
 # Multi-Agent Email Processing System
 
-> This project implements a multi-agent email processing system using parallel execution and tool/function calling. Each agent processes emails independently, classifies them into predefined categories, and calls appropriate tools such as spam detection, schedule conflict checking, auto-reply saving, and report generation.
-
----
-
 ## 과제 개요 (Assignment Overview)
 
 이 프로젝트는 EPITECH 수업 과제로, **멀티 AI 에이전트 이메일 처리 시스템**을 구현합니다.
